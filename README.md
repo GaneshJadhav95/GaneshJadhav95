@@ -9,7 +9,7 @@
 
 # 💫 About Me
 
-Hi 👋, I'm **Ganesh Jadhav**, a passionate Software Development Trainer & Full Stack Developer from India.
+Hi 👋, I'm **Ganesh Jadhav**, a passionate **Software Development Trainer & Full Stack Developer** from India.
 
 I have completed a **Diploma in Civil Engineering** and a **Full Stack Web Development** course. Currently, I work as a **Software Development Trainer & Developer**, where I teach aspiring developers modern web development while building responsive and scalable web applications.
 
@@ -19,8 +19,8 @@ I have hands-on experience in **HTML, CSS, JavaScript, jQuery, AJAX, PHP, MySQL,
 - 🌱 **Currently Learning:** Modern JavaScript frameworks and advanced web development
 - 💻 **Interested In:** Full Stack Development, REST APIs, Responsive UI Design, and Web Performance
 - 💬 **Ask Me About:** HTML, CSS, JavaScript, React.js, PHP, MySQL, Tailwind CSS, Bootstrap, jQuery, and Git
-- 📍 **Location:** Pune, Maharashtra, India
-- 📫 **Email:** **ganeshjadhav9579745752@gmail.com**
+- 📍 **Location:** Chhatrapati Sambhaji Nagar, Maharashtra, India
+- 📫 **Email:** **ganeshjadhav7974@gmail.com**
 
 ---
 
@@ -31,7 +31,7 @@ I have hands-on experience in **HTML, CSS, JavaScript, jQuery, AJAX, PHP, MySQL,
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:ganeshjadhav9579745752@gmail.com">
+<a href="mailto:ganeshjadhav7974@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
