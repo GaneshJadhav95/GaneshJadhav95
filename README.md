@@ -2,11 +2,11 @@
 <h3 align="center">💻 Software Development Trainer & Full Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Development+Trainer;Full+Stack+Web+Developer;React.js+%7C+PHP+%7C+MySQL;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=4000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Software+Development+Trainer;Full+Stack+Web+Developer;React.js+%7C+PHP+%7C+MySQL;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=GaneshJadhav95&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -19,16 +19,17 @@ I have completed a **Diploma in Civil Engineering** and a **Full Stack Web Devel
 
 I have hands-on experience with **HTML, CSS, JavaScript, jQuery, AJAX, PHP, MySQL, React.js, Bootstrap, Tailwind CSS, and Git**.
 
-I enjoy solving real-world problems through code, developing RESTful APIs, creating responsive user interfaces, and continuously learning new technologies to enhance my development skills.
+I enjoy building responsive websites, developing REST APIs, solving real-world programming challenges, and continuously learning modern technologies to improve my development skills.
 
 ---
 
 ## 🚀 Current Focus
 
 - 💼 Working as a **Software Development Trainer & Developer**
-- 🌱 Learning modern web technologies and best practices
+- 🌱 Learning modern web technologies
 - 🚀 Building Full Stack Web Applications
-- 📚 Teaching HTML, CSS, JavaScript, PHP & React.js
+- ⚛️ Creating modern React.js projects
+- 👨‍🏫 Teaching Web Development
 
 ---
 
@@ -37,9 +38,9 @@ I enjoy solving real-world problems through code, developing RESTful APIs, creat
 - 🌐 Responsive Website Development
 - ⚛️ React.js Application Development
 - 🖥️ PHP & MySQL Backend Development
-- 🔗 REST API Integration
-- 🎨 Modern UI Design
-- 📱 Mobile Friendly Websites
+- 🔗 REST API Development & Integration
+- 🎨 Modern UI Design using Tailwind CSS
+- 📱 Mobile-Friendly Websites
 - 👨‍🏫 Software Development Training
 
 ---
@@ -47,7 +48,6 @@ I enjoy solving real-world problems through code, developing RESTful APIs, creat
 # 🌐 Connect With Me
 
 <p align="left">
-
 <a href="https://www.linkedin.com/in/ganesh-jadhav-9300b31b8/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
@@ -55,20 +55,17 @@ I enjoy solving real-world problems through code, developing RESTful APIs, creat
 <a href="mailto:ganeshjadhav7974@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
 # 💻 Tech Stack
 
-<p>
-
+<p align="left">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,php,mysql,bootstrap,tailwind,git,github,vscode" />
-
 </p>
 
-<p>
+<p align="left">
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/AJAX-00599C?style=for-the-badge"/>
 </p>
@@ -78,11 +75,9 @@ I enjoy solving real-world problems through code, developing RESTful APIs, creat
 # 📊 GitHub Stats
 
 <p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=GaneshJadhav95&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaneshJadhav95&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -90,9 +85,7 @@ I enjoy solving real-world problems through code, developing RESTful APIs, creat
 # 🔥 GitHub Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com?user=GaneshJadhav95&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -100,9 +93,7 @@ I enjoy solving real-world problems through code, developing RESTful APIs, creat
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=GaneshJadhav95&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8"/>
 </p>
 
 ---
@@ -110,9 +101,7 @@ I enjoy solving real-world problems through code, developing RESTful APIs, creat
 # 📈 Contribution Graph
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GaneshJadhav95&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -159,7 +148,6 @@ I enjoy solving real-world problems through code, developing RESTful APIs, creat
 - Modern JavaScript
 - UI/UX Best Practices
 - Performance Optimization
-- Software Architecture
 
 ---
 
